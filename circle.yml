@@ -38,7 +38,7 @@ dependencies:
     - cd helloworld
     - cd helloworld && ls -la
     - cd helloworld && rm helloworld.*
-    - cd helloworld && meteor add anti:gagarin@0.4.11 session meteor-platform clinical:theming clinical:default-theme clinical:router clinical:router-default-config clinical:active-layout clinical:active-layout-reset clinical:active-layout-pagescreen-config grove:less
+    - cd helloworld && meteor add anti:gagarin@0.4.12 session meteor-platform clinical:theming clinical:default-theme clinical:router clinical:router-default-config clinical:active-layout clinical:active-layout-reset clinical:active-layout-pagescreen-config grove:less
     - cd helloworld && git clone http://github.com/clinical-meteor/hl7-resource-appointment packages/hl7-resource-appointment
     - cd helloworld && meteor add clinical:hl7-resource-appointment clinical:hl7-resource-datatypes
     - cd helloworld/packages && ls -la
