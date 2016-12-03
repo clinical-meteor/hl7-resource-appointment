@@ -1,6 +1,6 @@
 Package.describe({
   name: 'clinical:hl7-resource-appointment',
-  version: '1.1.2',
+  version: '1.1.3',
   summary: 'HL7 FHIR Resource - Appointment',
   git: 'https://github.com/clinical-meteor/hl7-resource-appointment',
   documentation: 'README.md'
